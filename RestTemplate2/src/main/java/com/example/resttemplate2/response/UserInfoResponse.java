@@ -1,7 +1,6 @@
 package com.example.resttemplate2.response;
 
 import com.example.resttemplate2.pojo.UserInfo;
-import com.example.resttemplate2.pojo.UserResponse;
 
 public class UserInfoResponse {
     private UserInfo userInfo;
