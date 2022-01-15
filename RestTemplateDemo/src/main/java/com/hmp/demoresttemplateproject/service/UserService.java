@@ -2,11 +2,9 @@ package com.hmp.demoresttemplateproject.service;
 
 import com.hmp.demoresttemplateproject.pojo.User;
 import com.hmp.demoresttemplateproject.pojo.UserResponse;
-import com.hmp.demoresttemplateproject.repo.UserRepo;
 import com.hmp.demoresttemplateproject.repo.UserRepository;
 import org.springframework.http.HttpStatus;
 import org.springframework.stereotype.Service;
-import org.springframework.util.CollectionUtils;
 
 import java.util.List;
 

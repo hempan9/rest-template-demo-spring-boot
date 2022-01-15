@@ -10,7 +10,7 @@
     </parent>
     <groupId>com.example</groupId>
     <artifactId>RestTemplate2</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0</version>
     <name>RestTemplate2</name>
     <description>RestTemplate2</description>
     <properties>
